@@ -1,0 +1,12 @@
+name: "Moedux"
+description: "Moedux is a Brazilian (pt-BR) personal-finance app that turns transactions, bills and spending estimates into a readable cash-flow diagnosis: it projects the date your balance reaches zero (Mar Vermelho) and the next action to take. Free one-click sample without signup; 14-day full-access trial with no credit card."
+source_url: "https://www.moedux.com/?utm_source=everworks&utm_medium=directory&utm_campaign=awesome-personal-finance"
+category: "Budgeting Apps"
+tags:
+  - "paid"
+  - "freemium"
+  - "budgeting"
+  - "expense-tracking"
+icon_url: "https://icons.duckduckgo.com/ip3/moedux.com.ico"
+markdown: "## Pricing\n\n14-day full-access trial, no credit card. Then R$ 19,90/month or R$ 99/year (BRL). A free tier remains after the trial.\n\n## Links\n\n- Website: <https://www.moedux.com/?utm_source=everworks&utm_medium=directory&utm_campaign=awesome-personal-finance>\n- One-click sample (no signup): <https://www.moedux.com/previa-mar-vermelho?utm_source=everworks&utm_medium=directory&utm_campaign=awesome-personal-finance>\n- API and CLI docs: <https://www.moedux.com/developers?utm_source=everworks&utm_medium=directory&utm_campaign=awesome-personal-finance>\n"
+updated_at: "2026-11-23 16:55"
